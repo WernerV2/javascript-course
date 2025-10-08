@@ -11,7 +11,7 @@
 10.90 * 2 + 20.95 + 4.99
 
 // Order of operations:
-1 + 1 * 3
+1 + 1 * 3//answer is 4 order of precedence is left to right /*--first and then +-
 (1 + 1) * 3
 
 20.95 + 7.99 * 2
